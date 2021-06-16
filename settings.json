@@ -1,0 +1,42 @@
+{
+  "editor.lightbulb.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "none",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.showExpandedAbbreviation": "never",
+  "files.trimTrailingWhitespace": true,
+  "javascript.suggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 1px",
+          "borderStyle": "solid",
+          "borderColor": "red",
+          "borderRadius": "5px",
+          "overviewRulerColor": "white"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 1px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "red",
+          "borderRadius": "5px",
+          "overviewRulerColor": "white"
+        }
+      }
+    }
+  },
+  "workbench.colorTheme": "Andromeda Bordered",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.hover.enabled": false,
+  "window.zoomLevel": 2,
+  "workbench.startupEditor": "none",
+  "liveServer.settings.donotShowInfoMsg": true
+}
